@@ -7,14 +7,14 @@
     "start": "NODE_ENV=production node app",
     "dev": "NODE_ENV=development nodemon app"
   },
-  "author": "Michael Parkadze",
+  "author": "Priyanka jampani",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "joi": "^17.4.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.2",
     "md5": "^2.3.0",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
